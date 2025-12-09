@@ -91,6 +91,11 @@ System Info:
 - Kommanda version:
 - CPU (Intel or Apple Silicon):
 - Anything else helpful:
-
+```
 ## Screenshots
 ![Kommanda UI](assets/kommanda.png)
+![Kommanda Light Theme](assets/light-theme.png)
+![Kommanda PDF Preview](assets/pdf-preview.png)
+![Kommanda Preview Panel](assets/img-preview.png)
+![Kommanda Quick Preview](assets/quick-preview.png)
+![Kommanda Quick File Edit](assets/quick-file-edit.png)
